@@ -40,8 +40,7 @@ Collection of styleguides.
 
 ### Angular
 
-[Angular Styleguide](https://github.com/johnpapa/angular-
-styleguide/blob/master/a1/README.md)
+[Angular Styleguide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 
 ### Ember
 
